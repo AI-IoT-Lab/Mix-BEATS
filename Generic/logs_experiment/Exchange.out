@@ -1,0 +1,281 @@
+nohup: ignoring input
+MixBEATS_Exchange_96_24,96,6,2,2,64,0.656
+MixBEATS_Exchange_96_24,96,6,2,2,128,1.373
+MixBEATS_Exchange_96_24,96,6,2,2,256,0.951
+MixBEATS_Exchange_96_24,96,6,2,2,512,1.658
+MixBEATS_Exchange_96_24,96,6,2,4,64,0.056
+MixBEATS_Exchange_96_24,96,6,2,4,128,0.072
+MixBEATS_Exchange_96_24,96,6,2,4,256,0.057
+MixBEATS_Exchange_96_24,96,6,2,4,512,0.060
+MixBEATS_Exchange_96_24,96,6,2,8,64,0.047
+MixBEATS_Exchange_96_24,96,6,2,8,128,0.045
+MixBEATS_Exchange_96_24,96,6,2,8,256,0.045
+MixBEATS_Exchange_96_24,96,6,2,8,512,0.054
+MixBEATS_Exchange_96_24,96,6,3,2,64,0.133
+MixBEATS_Exchange_96_24,96,6,3,2,128,0.057
+MixBEATS_Exchange_96_24,96,6,3,2,256,0.103
+MixBEATS_Exchange_96_24,96,6,3,2,512,0.133
+MixBEATS_Exchange_96_24,96,6,3,4,64,0.060
+MixBEATS_Exchange_96_24,96,6,3,4,128,0.052
+MixBEATS_Exchange_96_24,96,6,3,4,256,0.063
+MixBEATS_Exchange_96_24,96,6,3,4,512,0.064
+MixBEATS_Exchange_96_24,96,6,3,8,64,0.048
+MixBEATS_Exchange_96_24,96,6,3,8,128,0.046
+MixBEATS_Exchange_96_24,96,6,3,8,256,0.046
+MixBEATS_Exchange_96_24,96,6,3,8,512,0.049
+MixBEATS_Exchange_96_24,96,6,6,2,64,0.082
+MixBEATS_Exchange_96_24,96,6,6,2,128,0.077
+MixBEATS_Exchange_96_24,96,6,6,2,256,0.102
+MixBEATS_Exchange_96_24,96,6,6,2,512,0.079
+MixBEATS_Exchange_96_24,96,6,6,4,64,0.069
+MixBEATS_Exchange_96_24,96,6,6,4,128,0.065
+MixBEATS_Exchange_96_24,96,6,6,4,256,0.064
+MixBEATS_Exchange_96_24,96,6,6,4,512,0.077
+MixBEATS_Exchange_96_24,96,6,6,8,64,0.057
+MixBEATS_Exchange_96_24,96,6,6,8,128,0.057
+MixBEATS_Exchange_96_24,96,6,6,8,256,0.051
+MixBEATS_Exchange_96_24,96,6,6,8,512,0.055
+MixBEATS_Exchange_96_24,96,12,2,2,64,0.978
+MixBEATS_Exchange_96_24,96,12,2,2,128,1.027
+MixBEATS_Exchange_96_24,96,12,2,2,256,0.717
+MixBEATS_Exchange_96_24,96,12,2,2,512,1.233
+MixBEATS_Exchange_96_24,96,12,2,4,64,0.063
+MixBEATS_Exchange_96_24,96,12,2,4,128,0.057
+MixBEATS_Exchange_96_24,96,12,2,4,256,0.051
+MixBEATS_Exchange_96_24,96,12,2,4,512,0.070
+MixBEATS_Exchange_96_24,96,12,2,8,64,0.045
+MixBEATS_Exchange_96_24,96,12,2,8,128,0.046
+MixBEATS_Exchange_96_24,96,12,2,8,256,0.046
+MixBEATS_Exchange_96_24,96,12,2,8,512,0.055
+MixBEATS_Exchange_96_24,96,12,3,2,64,0.268
+MixBEATS_Exchange_96_24,96,12,3,2,128,0.128
+MixBEATS_Exchange_96_24,96,12,3,2,256,0.416
+MixBEATS_Exchange_96_24,96,12,3,2,512,0.107
+MixBEATS_Exchange_96_24,96,12,3,4,64,0.059
+MixBEATS_Exchange_96_24,96,12,3,4,128,0.066
+MixBEATS_Exchange_96_24,96,12,3,4,256,0.061
+MixBEATS_Exchange_96_24,96,12,3,4,512,0.049
+MixBEATS_Exchange_96_24,96,12,3,8,64,0.049
+MixBEATS_Exchange_96_24,96,12,3,8,128,0.050
+MixBEATS_Exchange_96_24,96,12,3,8,256,0.056
+MixBEATS_Exchange_96_24,96,12,3,8,512,0.054
+MixBEATS_Exchange_96_24,96,12,6,2,64,0.074
+MixBEATS_Exchange_96_24,96,12,6,2,128,0.077
+MixBEATS_Exchange_96_24,96,12,6,2,256,0.077
+MixBEATS_Exchange_96_24,96,12,6,2,512,0.086
+MixBEATS_Exchange_96_24,96,12,6,4,64,0.067
+MixBEATS_Exchange_96_24,96,12,6,4,128,0.065
+MixBEATS_Exchange_96_24,96,12,6,4,256,0.067
+MixBEATS_Exchange_96_24,96,12,6,4,512,0.073
+MixBEATS_Exchange_96_24,96,12,6,8,64,0.054
+MixBEATS_Exchange_96_24,96,12,6,8,128,0.055
+MixBEATS_Exchange_96_24,96,12,6,8,256,0.056
+MixBEATS_Exchange_96_24,96,12,6,8,512,0.055
+MixBEATS_Exchange_96_24,96,24,2,2,64,0.308
+MixBEATS_Exchange_96_24,96,24,2,2,128,0.491
+MixBEATS_Exchange_96_24,96,24,2,2,256,0.599
+MixBEATS_Exchange_96_24,96,24,2,2,512,0.813
+MixBEATS_Exchange_96_24,96,24,2,4,64,0.060
+MixBEATS_Exchange_96_24,96,24,2,4,128,0.056
+MixBEATS_Exchange_96_24,96,24,2,4,256,0.060
+MixBEATS_Exchange_96_24,96,24,2,4,512,0.075
+MixBEATS_Exchange_96_24,96,24,2,8,64,0.046
+MixBEATS_Exchange_96_24,96,24,2,8,128,0.043
+MixBEATS_Exchange_96_24,96,24,2,8,256,0.047
+MixBEATS_Exchange_96_24,96,24,2,8,512,0.057
+MixBEATS_Exchange_96_24,96,24,3,2,64,0.362
+MixBEATS_Exchange_96_24,96,24,3,2,128,0.091
+MixBEATS_Exchange_96_24,96,24,3,2,256,0.134
+MixBEATS_Exchange_96_24,96,24,3,2,512,0.100
+MixBEATS_Exchange_96_24,96,24,3,4,64,0.059
+MixBEATS_Exchange_96_24,96,24,3,4,128,0.065
+MixBEATS_Exchange_96_24,96,24,3,4,256,0.064
+MixBEATS_Exchange_96_24,96,24,3,4,512,0.070
+MixBEATS_Exchange_96_24,96,24,3,8,64,0.058
+MixBEATS_Exchange_96_24,96,24,3,8,128,0.048
+MixBEATS_Exchange_96_24,96,24,3,8,256,0.055
+MixBEATS_Exchange_96_24,96,24,3,8,512,0.059
+MixBEATS_Exchange_96_24,96,24,6,2,64,0.082
+MixBEATS_Exchange_96_24,96,24,6,2,128,0.077
+MixBEATS_Exchange_96_24,96,24,6,2,256,0.104
+MixBEATS_Exchange_96_24,96,24,6,2,512,0.091
+MixBEATS_Exchange_96_24,96,24,6,4,64,0.075
+MixBEATS_Exchange_96_24,96,24,6,4,128,0.077
+MixBEATS_Exchange_96_24,96,24,6,4,256,0.082
+MixBEATS_Exchange_96_24,96,24,6,4,512,0.089
+MixBEATS_Exchange_96_24,96,24,6,8,64,0.063
+MixBEATS_Exchange_96_24,96,24,6,8,128,0.053
+MixBEATS_Exchange_96_24,96,24,6,8,256,0.051
+MixBEATS_Exchange_96_24,96,24,6,8,512,0.055
+MixBEATS_Exchange_96_24,96,48,2,2,64,2.221
+MixBEATS_Exchange_96_24,96,48,2,2,128,1.033
+MixBEATS_Exchange_96_24,96,48,2,2,256,0.810
+MixBEATS_Exchange_96_24,96,48,2,2,512,0.289
+MixBEATS_Exchange_96_24,96,48,2,4,64,0.060
+MixBEATS_Exchange_96_24,96,48,2,4,128,0.066
+MixBEATS_Exchange_96_24,96,48,2,4,256,0.072
+MixBEATS_Exchange_96_24,96,48,2,4,512,0.065
+MixBEATS_Exchange_96_24,96,48,2,8,64,0.044
+MixBEATS_Exchange_96_24,96,48,2,8,128,0.049
+MixBEATS_Exchange_96_24,96,48,2,8,256,0.046
+MixBEATS_Exchange_96_24,96,48,2,8,512,0.060
+MixBEATS_Exchange_96_24,96,48,3,2,64,0.122
+MixBEATS_Exchange_96_24,96,48,3,2,128,0.127
+MixBEATS_Exchange_96_24,96,48,3,2,256,0.189
+MixBEATS_Exchange_96_24,96,48,3,2,512,0.358
+MixBEATS_Exchange_96_24,96,48,3,4,64,0.059
+MixBEATS_Exchange_96_24,96,48,3,4,128,0.070
+MixBEATS_Exchange_96_24,96,48,3,4,256,0.064
+MixBEATS_Exchange_96_24,96,48,3,4,512,0.057
+MixBEATS_Exchange_96_24,96,48,3,8,64,0.059
+MixBEATS_Exchange_96_24,96,48,3,8,128,0.049
+MixBEATS_Exchange_96_24,96,48,3,8,256,0.054
+MixBEATS_Exchange_96_24,96,48,3,8,512,0.050
+MixBEATS_Exchange_96_24,96,48,6,2,64,0.149
+MixBEATS_Exchange_96_24,96,48,6,2,128,0.099
+MixBEATS_Exchange_96_24,96,48,6,2,256,0.104
+MixBEATS_Exchange_96_24,96,48,6,2,512,0.105
+MixBEATS_Exchange_96_24,96,48,6,4,64,0.087
+MixBEATS_Exchange_96_24,96,48,6,4,128,0.072
+MixBEATS_Exchange_96_24,96,48,6,4,256,0.071
+MixBEATS_Exchange_96_24,96,48,6,4,512,0.091
+MixBEATS_Exchange_96_24,96,48,6,8,64,0.066
+MixBEATS_Exchange_96_24,96,48,6,8,128,0.071
+MixBEATS_Exchange_96_24,96,48,6,8,256,0.066
+MixBEATS_Exchange_96_24,96,48,6,8,512,0.058
+MixBEATS_Exchange_96_24,168,6,2,2,64,0.354
+MixBEATS_Exchange_96_24,168,6,2,2,128,1.455
+MixBEATS_Exchange_96_24,168,6,2,2,256,0.338
+MixBEATS_Exchange_96_24,168,6,2,2,512,1.189
+MixBEATS_Exchange_96_24,168,6,2,4,64,0.062
+MixBEATS_Exchange_96_24,168,6,2,4,128,0.060
+MixBEATS_Exchange_96_24,168,6,2,4,256,0.082
+MixBEATS_Exchange_96_24,168,6,2,4,512,0.084
+MixBEATS_Exchange_96_24,168,6,2,8,64,0.062
+MixBEATS_Exchange_96_24,168,6,2,8,128,0.061
+MixBEATS_Exchange_96_24,168,6,2,8,256,0.054
+MixBEATS_Exchange_96_24,168,6,2,8,512,0.068
+MixBEATS_Exchange_96_24,168,6,3,2,64,0.617
+MixBEATS_Exchange_96_24,168,6,3,2,128,0.122
+MixBEATS_Exchange_96_24,168,6,3,2,256,0.161
+MixBEATS_Exchange_96_24,168,6,3,2,512,0.326
+MixBEATS_Exchange_96_24,168,6,3,4,64,0.063
+MixBEATS_Exchange_96_24,168,6,3,4,128,0.063
+MixBEATS_Exchange_96_24,168,6,3,4,256,0.059
+MixBEATS_Exchange_96_24,168,6,3,4,512,0.088
+MixBEATS_Exchange_96_24,168,6,3,8,64,0.064
+MixBEATS_Exchange_96_24,168,6,3,8,128,0.058
+MixBEATS_Exchange_96_24,168,6,3,8,256,0.064
+MixBEATS_Exchange_96_24,168,6,3,8,512,0.069
+MixBEATS_Exchange_96_24,168,6,6,2,64,0.072
+MixBEATS_Exchange_96_24,168,6,6,2,128,0.084
+MixBEATS_Exchange_96_24,168,6,6,2,256,0.080
+MixBEATS_Exchange_96_24,168,6,6,2,512,0.080
+MixBEATS_Exchange_96_24,168,6,6,4,64,0.072
+MixBEATS_Exchange_96_24,168,6,6,4,128,0.093
+MixBEATS_Exchange_96_24,168,6,6,4,256,0.082
+MixBEATS_Exchange_96_24,168,6,6,4,512,0.086
+MixBEATS_Exchange_96_24,168,6,6,8,64,0.075
+MixBEATS_Exchange_96_24,168,6,6,8,128,0.076
+MixBEATS_Exchange_96_24,168,6,6,8,256,0.079
+MixBEATS_Exchange_96_24,168,6,6,8,512,0.091
+MixBEATS_Exchange_96_24,168,12,2,2,64,1.047
+MixBEATS_Exchange_96_24,168,12,2,2,128,0.874
+MixBEATS_Exchange_96_24,168,12,2,2,256,0.911
+MixBEATS_Exchange_96_24,168,12,2,2,512,0.950
+MixBEATS_Exchange_96_24,168,12,2,4,64,0.076
+MixBEATS_Exchange_96_24,168,12,2,4,128,0.072
+MixBEATS_Exchange_96_24,168,12,2,4,256,0.050
+MixBEATS_Exchange_96_24,168,12,2,4,512,0.055
+MixBEATS_Exchange_96_24,168,12,2,8,64,0.056
+MixBEATS_Exchange_96_24,168,12,2,8,128,0.050
+MixBEATS_Exchange_96_24,168,12,2,8,256,0.055
+MixBEATS_Exchange_96_24,168,12,2,8,512,0.050
+MixBEATS_Exchange_96_24,168,12,3,2,64,0.074
+MixBEATS_Exchange_96_24,168,12,3,2,128,0.256
+MixBEATS_Exchange_96_24,168,12,3,2,256,0.093
+MixBEATS_Exchange_96_24,168,12,3,2,512,0.111
+MixBEATS_Exchange_96_24,168,12,3,4,64,0.058
+MixBEATS_Exchange_96_24,168,12,3,4,128,0.059
+MixBEATS_Exchange_96_24,168,12,3,4,256,0.059
+MixBEATS_Exchange_96_24,168,12,3,4,512,0.059
+MixBEATS_Exchange_96_24,168,12,3,8,64,0.068
+MixBEATS_Exchange_96_24,168,12,3,8,128,0.062
+MixBEATS_Exchange_96_24,168,12,3,8,256,0.053
+MixBEATS_Exchange_96_24,168,12,3,8,512,0.067
+MixBEATS_Exchange_96_24,168,12,6,2,64,0.080
+MixBEATS_Exchange_96_24,168,12,6,2,128,0.090
+MixBEATS_Exchange_96_24,168,12,6,2,256,0.110
+MixBEATS_Exchange_96_24,168,12,6,2,512,0.086
+MixBEATS_Exchange_96_24,168,12,6,4,64,0.095
+MixBEATS_Exchange_96_24,168,12,6,4,128,0.082
+MixBEATS_Exchange_96_24,168,12,6,4,256,0.073
+MixBEATS_Exchange_96_24,168,12,6,4,512,0.082
+MixBEATS_Exchange_96_24,168,12,6,8,64,0.070
+MixBEATS_Exchange_96_24,168,12,6,8,128,0.072
+MixBEATS_Exchange_96_24,168,12,6,8,256,0.088
+MixBEATS_Exchange_96_24,168,12,6,8,512,0.072
+MixBEATS_Exchange_96_24,168,24,2,2,64,0.772
+MixBEATS_Exchange_96_24,168,24,2,2,128,0.788
+MixBEATS_Exchange_96_24,168,24,2,2,256,0.876
+MixBEATS_Exchange_96_24,168,24,2,2,512,0.344
+MixBEATS_Exchange_96_24,168,24,2,4,64,0.061
+MixBEATS_Exchange_96_24,168,24,2,4,128,0.049
+MixBEATS_Exchange_96_24,168,24,2,4,256,0.060
+MixBEATS_Exchange_96_24,168,24,2,4,512,0.064
+MixBEATS_Exchange_96_24,168,24,2,8,64,0.058
+MixBEATS_Exchange_96_24,168,24,2,8,128,0.057
+MixBEATS_Exchange_96_24,168,24,2,8,256,0.053
+MixBEATS_Exchange_96_24,168,24,2,8,512,0.058
+MixBEATS_Exchange_96_24,168,24,3,2,64,0.102
+MixBEATS_Exchange_96_24,168,24,3,2,128,0.087
+MixBEATS_Exchange_96_24,168,24,3,2,256,0.113
+MixBEATS_Exchange_96_24,168,24,3,2,512,0.186
+MixBEATS_Exchange_96_24,168,24,3,4,64,0.063
+MixBEATS_Exchange_96_24,168,24,3,4,128,0.069
+MixBEATS_Exchange_96_24,168,24,3,4,256,0.067
+MixBEATS_Exchange_96_24,168,24,3,4,512,0.058
+MixBEATS_Exchange_96_24,168,24,3,8,64,0.059
+MixBEATS_Exchange_96_24,168,24,3,8,128,0.052
+MixBEATS_Exchange_96_24,168,24,3,8,256,0.054
+MixBEATS_Exchange_96_24,168,24,3,8,512,0.073
+MixBEATS_Exchange_96_24,168,24,6,2,64,0.092
+MixBEATS_Exchange_96_24,168,24,6,2,128,0.092
+MixBEATS_Exchange_96_24,168,24,6,2,256,0.081
+MixBEATS_Exchange_96_24,168,24,6,2,512,0.089
+MixBEATS_Exchange_96_24,168,24,6,4,64,0.077
+MixBEATS_Exchange_96_24,168,24,6,4,128,0.090
+MixBEATS_Exchange_96_24,168,24,6,4,256,0.078
+MixBEATS_Exchange_96_24,168,24,6,4,512,0.090
+MixBEATS_Exchange_96_24,168,24,6,8,64,0.070
+MixBEATS_Exchange_96_24,168,24,6,8,128,0.073
+MixBEATS_Exchange_96_24,168,24,6,8,256,0.070
+MixBEATS_Exchange_96_24,168,24,6,8,512,0.096
+Traceback (most recent call last):
+  File "/home/user/energygpt/Mix-BEATS/Generic/exp.py", line 337, in <module>
+    exp(args, model, criterion, optimizer, device, train_loader, val_loader, test_loader)
+  File "/home/user/energygpt/Mix-BEATS/Generic/exp.py", line 83, in exp
+    outputs = _run_model()
+  File "/home/user/energygpt/Mix-BEATS/Generic/exp.py", line 74, in _run_model
+    outputs = model(batch_x, batch_x_mark, dec_inp, batch_y_mark)
+  File "/home/user/miniconda3/envs/IBMTS/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/user/miniconda3/envs/IBMTS/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/user/energygpt/Mix-BEATS/Generic/models/MixBEATS.py", line 96, in forward
+    backcast, forecast = self.short_forecast(backcast)
+  File "/home/user/energygpt/Mix-BEATS/Generic/models/MixBEATS.py", line 86, in short_forecast
+    backcast_block, forecast_block = block(backcast)
+  File "/home/user/miniconda3/envs/IBMTS/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/user/miniconda3/envs/IBMTS/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/user/energygpt/Mix-BEATS/Generic/models/MixBEATS.py", line 29, in forward
+    x = self.TSMixer(x)
+  File "/home/user/miniconda3/envs/IBMTS/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/user/miniconda3/envs/IBMTS/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/user/energygpt/Mix-BEATS/Generic/layers/MLP_Mixer.py", line 29, in forward
+    x = x.view(batch_size, self.num_patches, self.patch_size)
+RuntimeError: shape '[32, 3, 48]' is invalid for input of size 5376

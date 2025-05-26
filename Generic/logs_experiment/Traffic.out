@@ -1,0 +1,281 @@
+nohup: ignoring input
+MixBEATS_Traffic_96_24,96,6,2,2,64,0.605
+MixBEATS_Traffic_96_24,96,6,2,2,128,0.633
+MixBEATS_Traffic_96_24,96,6,2,2,256,0.473
+MixBEATS_Traffic_96_24,96,6,2,2,512,0.462
+MixBEATS_Traffic_96_24,96,6,2,4,64,0.386
+MixBEATS_Traffic_96_24,96,6,2,4,128,0.412
+MixBEATS_Traffic_96_24,96,6,2,4,256,0.433
+MixBEATS_Traffic_96_24,96,6,2,4,512,0.382
+MixBEATS_Traffic_96_24,96,6,2,8,64,0.346
+MixBEATS_Traffic_96_24,96,6,2,8,128,0.339
+MixBEATS_Traffic_96_24,96,6,2,8,256,0.314
+MixBEATS_Traffic_96_24,96,6,2,8,512,0.291
+MixBEATS_Traffic_96_24,96,6,3,2,64,0.462
+MixBEATS_Traffic_96_24,96,6,3,2,128,0.460
+MixBEATS_Traffic_96_24,96,6,3,2,256,0.396
+MixBEATS_Traffic_96_24,96,6,3,2,512,0.400
+MixBEATS_Traffic_96_24,96,6,3,4,64,0.362
+MixBEATS_Traffic_96_24,96,6,3,4,128,0.372
+MixBEATS_Traffic_96_24,96,6,3,4,256,0.349
+MixBEATS_Traffic_96_24,96,6,3,4,512,0.355
+MixBEATS_Traffic_96_24,96,6,3,8,64,0.326
+MixBEATS_Traffic_96_24,96,6,3,8,128,0.309
+MixBEATS_Traffic_96_24,96,6,3,8,256,0.305
+MixBEATS_Traffic_96_24,96,6,3,8,512,0.294
+MixBEATS_Traffic_96_24,96,6,6,2,64,0.485
+MixBEATS_Traffic_96_24,96,6,6,2,128,0.420
+MixBEATS_Traffic_96_24,96,6,6,2,256,0.428
+MixBEATS_Traffic_96_24,96,6,6,2,512,0.406
+MixBEATS_Traffic_96_24,96,6,6,4,64,0.405
+MixBEATS_Traffic_96_24,96,6,6,4,128,0.374
+MixBEATS_Traffic_96_24,96,6,6,4,256,0.347
+MixBEATS_Traffic_96_24,96,6,6,4,512,0.321
+MixBEATS_Traffic_96_24,96,6,6,8,64,0.325
+MixBEATS_Traffic_96_24,96,6,6,8,128,0.325
+MixBEATS_Traffic_96_24,96,6,6,8,256,0.308
+MixBEATS_Traffic_96_24,96,6,6,8,512,0.298
+MixBEATS_Traffic_96_24,96,12,2,2,64,0.506
+MixBEATS_Traffic_96_24,96,12,2,2,128,0.597
+MixBEATS_Traffic_96_24,96,12,2,2,256,0.868
+MixBEATS_Traffic_96_24,96,12,2,2,512,0.619
+MixBEATS_Traffic_96_24,96,12,2,4,64,0.401
+MixBEATS_Traffic_96_24,96,12,2,4,128,0.393
+MixBEATS_Traffic_96_24,96,12,2,4,256,0.343
+MixBEATS_Traffic_96_24,96,12,2,4,512,0.329
+MixBEATS_Traffic_96_24,96,12,2,8,64,0.352
+MixBEATS_Traffic_96_24,96,12,2,8,128,0.332
+MixBEATS_Traffic_96_24,96,12,2,8,256,0.305
+MixBEATS_Traffic_96_24,96,12,2,8,512,0.283
+MixBEATS_Traffic_96_24,96,12,3,2,64,0.482
+MixBEATS_Traffic_96_24,96,12,3,2,128,0.465
+MixBEATS_Traffic_96_24,96,12,3,2,256,0.411
+MixBEATS_Traffic_96_24,96,12,3,2,512,0.403
+MixBEATS_Traffic_96_24,96,12,3,4,64,0.408
+MixBEATS_Traffic_96_24,96,12,3,4,128,0.375
+MixBEATS_Traffic_96_24,96,12,3,4,256,0.334
+MixBEATS_Traffic_96_24,96,12,3,4,512,0.305
+MixBEATS_Traffic_96_24,96,12,3,8,64,0.331
+MixBEATS_Traffic_96_24,96,12,3,8,128,0.312
+MixBEATS_Traffic_96_24,96,12,3,8,256,0.295
+MixBEATS_Traffic_96_24,96,12,3,8,512,0.267
+MixBEATS_Traffic_96_24,96,12,6,2,64,0.423
+MixBEATS_Traffic_96_24,96,12,6,2,128,0.439
+MixBEATS_Traffic_96_24,96,12,6,2,256,0.431
+MixBEATS_Traffic_96_24,96,12,6,2,512,0.379
+MixBEATS_Traffic_96_24,96,12,6,4,64,0.374
+MixBEATS_Traffic_96_24,96,12,6,4,128,0.388
+MixBEATS_Traffic_96_24,96,12,6,4,256,0.344
+MixBEATS_Traffic_96_24,96,12,6,4,512,0.331
+MixBEATS_Traffic_96_24,96,12,6,8,64,0.332
+MixBEATS_Traffic_96_24,96,12,6,8,128,0.315
+MixBEATS_Traffic_96_24,96,12,6,8,256,0.303
+MixBEATS_Traffic_96_24,96,12,6,8,512,0.281
+MixBEATS_Traffic_96_24,96,24,2,2,64,0.666
+MixBEATS_Traffic_96_24,96,24,2,2,128,0.535
+MixBEATS_Traffic_96_24,96,24,2,2,256,0.557
+MixBEATS_Traffic_96_24,96,24,2,2,512,0.780
+MixBEATS_Traffic_96_24,96,24,2,4,64,0.417
+MixBEATS_Traffic_96_24,96,24,2,4,128,0.390
+MixBEATS_Traffic_96_24,96,24,2,4,256,0.369
+MixBEATS_Traffic_96_24,96,24,2,4,512,0.359
+MixBEATS_Traffic_96_24,96,24,2,8,64,0.339
+MixBEATS_Traffic_96_24,96,24,2,8,128,0.312
+MixBEATS_Traffic_96_24,96,24,2,8,256,0.289
+MixBEATS_Traffic_96_24,96,24,2,8,512,0.279
+MixBEATS_Traffic_96_24,96,24,3,2,64,0.465
+MixBEATS_Traffic_96_24,96,24,3,2,128,0.417
+MixBEATS_Traffic_96_24,96,24,3,2,256,0.451
+MixBEATS_Traffic_96_24,96,24,3,2,512,0.395
+MixBEATS_Traffic_96_24,96,24,3,4,64,0.377
+MixBEATS_Traffic_96_24,96,24,3,4,128,0.342
+MixBEATS_Traffic_96_24,96,24,3,4,256,0.349
+MixBEATS_Traffic_96_24,96,24,3,4,512,0.327
+MixBEATS_Traffic_96_24,96,24,3,8,64,0.316
+MixBEATS_Traffic_96_24,96,24,3,8,128,0.315
+MixBEATS_Traffic_96_24,96,24,3,8,256,0.281
+MixBEATS_Traffic_96_24,96,24,3,8,512,0.276
+MixBEATS_Traffic_96_24,96,24,6,2,64,0.470
+MixBEATS_Traffic_96_24,96,24,6,2,128,0.411
+MixBEATS_Traffic_96_24,96,24,6,2,256,0.419
+MixBEATS_Traffic_96_24,96,24,6,2,512,0.369
+MixBEATS_Traffic_96_24,96,24,6,4,64,0.369
+MixBEATS_Traffic_96_24,96,24,6,4,128,0.359
+MixBEATS_Traffic_96_24,96,24,6,4,256,0.366
+MixBEATS_Traffic_96_24,96,24,6,4,512,0.317
+MixBEATS_Traffic_96_24,96,24,6,8,64,0.325
+MixBEATS_Traffic_96_24,96,24,6,8,128,0.289
+MixBEATS_Traffic_96_24,96,24,6,8,256,0.299
+MixBEATS_Traffic_96_24,96,24,6,8,512,0.281
+MixBEATS_Traffic_96_24,96,48,2,2,64,0.550
+MixBEATS_Traffic_96_24,96,48,2,2,128,0.743
+MixBEATS_Traffic_96_24,96,48,2,2,256,0.851
+MixBEATS_Traffic_96_24,96,48,2,2,512,0.527
+MixBEATS_Traffic_96_24,96,48,2,4,64,0.447
+MixBEATS_Traffic_96_24,96,48,2,4,128,0.398
+MixBEATS_Traffic_96_24,96,48,2,4,256,0.397
+MixBEATS_Traffic_96_24,96,48,2,4,512,0.391
+MixBEATS_Traffic_96_24,96,48,2,8,64,0.358
+MixBEATS_Traffic_96_24,96,48,2,8,128,0.363
+MixBEATS_Traffic_96_24,96,48,2,8,256,0.345
+MixBEATS_Traffic_96_24,96,48,2,8,512,0.311
+MixBEATS_Traffic_96_24,96,48,3,2,64,0.485
+MixBEATS_Traffic_96_24,96,48,3,2,128,0.447
+MixBEATS_Traffic_96_24,96,48,3,2,256,0.448
+MixBEATS_Traffic_96_24,96,48,3,2,512,0.426
+MixBEATS_Traffic_96_24,96,48,3,4,64,0.399
+MixBEATS_Traffic_96_24,96,48,3,4,128,0.368
+MixBEATS_Traffic_96_24,96,48,3,4,256,0.360
+MixBEATS_Traffic_96_24,96,48,3,4,512,0.364
+MixBEATS_Traffic_96_24,96,48,3,8,64,0.333
+MixBEATS_Traffic_96_24,96,48,3,8,128,0.329
+MixBEATS_Traffic_96_24,96,48,3,8,256,0.332
+MixBEATS_Traffic_96_24,96,48,3,8,512,0.317
+MixBEATS_Traffic_96_24,96,48,6,2,64,0.525
+MixBEATS_Traffic_96_24,96,48,6,2,128,0.488
+MixBEATS_Traffic_96_24,96,48,6,2,256,0.455
+MixBEATS_Traffic_96_24,96,48,6,2,512,0.430
+MixBEATS_Traffic_96_24,96,48,6,4,64,0.395
+MixBEATS_Traffic_96_24,96,48,6,4,128,0.396
+MixBEATS_Traffic_96_24,96,48,6,4,256,0.388
+MixBEATS_Traffic_96_24,96,48,6,4,512,0.351
+MixBEATS_Traffic_96_24,96,48,6,8,64,0.342
+MixBEATS_Traffic_96_24,96,48,6,8,128,0.345
+MixBEATS_Traffic_96_24,96,48,6,8,256,0.334
+MixBEATS_Traffic_96_24,96,48,6,8,512,0.340
+MixBEATS_Traffic_96_24,168,6,2,2,64,0.617
+MixBEATS_Traffic_96_24,168,6,2,2,128,0.445
+MixBEATS_Traffic_96_24,168,6,2,2,256,0.563
+MixBEATS_Traffic_96_24,168,6,2,2,512,0.432
+MixBEATS_Traffic_96_24,168,6,2,4,64,0.223
+MixBEATS_Traffic_96_24,168,6,2,4,128,0.245
+MixBEATS_Traffic_96_24,168,6,2,4,256,0.246
+MixBEATS_Traffic_96_24,168,6,2,4,512,0.209
+MixBEATS_Traffic_96_24,168,6,2,8,64,0.184
+MixBEATS_Traffic_96_24,168,6,2,8,128,0.179
+MixBEATS_Traffic_96_24,168,6,2,8,256,0.181
+MixBEATS_Traffic_96_24,168,6,2,8,512,0.173
+MixBEATS_Traffic_96_24,168,6,3,2,64,0.327
+MixBEATS_Traffic_96_24,168,6,3,2,128,0.370
+MixBEATS_Traffic_96_24,168,6,3,2,256,0.317
+MixBEATS_Traffic_96_24,168,6,3,2,512,0.313
+MixBEATS_Traffic_96_24,168,6,3,4,64,0.210
+MixBEATS_Traffic_96_24,168,6,3,4,128,0.214
+MixBEATS_Traffic_96_24,168,6,3,4,256,0.210
+MixBEATS_Traffic_96_24,168,6,3,4,512,0.203
+MixBEATS_Traffic_96_24,168,6,3,8,64,0.186
+MixBEATS_Traffic_96_24,168,6,3,8,128,0.179
+MixBEATS_Traffic_96_24,168,6,3,8,256,0.177
+MixBEATS_Traffic_96_24,168,6,3,8,512,0.177
+MixBEATS_Traffic_96_24,168,6,6,2,64,0.279
+MixBEATS_Traffic_96_24,168,6,6,2,128,0.282
+MixBEATS_Traffic_96_24,168,6,6,2,256,0.259
+MixBEATS_Traffic_96_24,168,6,6,2,512,0.251
+MixBEATS_Traffic_96_24,168,6,6,4,64,0.240
+MixBEATS_Traffic_96_24,168,6,6,4,128,0.233
+MixBEATS_Traffic_96_24,168,6,6,4,256,0.229
+MixBEATS_Traffic_96_24,168,6,6,4,512,0.223
+MixBEATS_Traffic_96_24,168,6,6,8,64,0.194
+MixBEATS_Traffic_96_24,168,6,6,8,128,0.196
+MixBEATS_Traffic_96_24,168,6,6,8,256,0.193
+MixBEATS_Traffic_96_24,168,6,6,8,512,0.190
+MixBEATS_Traffic_96_24,168,12,2,2,64,0.683
+MixBEATS_Traffic_96_24,168,12,2,2,128,0.597
+MixBEATS_Traffic_96_24,168,12,2,2,256,0.609
+MixBEATS_Traffic_96_24,168,12,2,2,512,0.474
+MixBEATS_Traffic_96_24,168,12,2,4,64,0.239
+MixBEATS_Traffic_96_24,168,12,2,4,128,0.213
+MixBEATS_Traffic_96_24,168,12,2,4,256,0.218
+MixBEATS_Traffic_96_24,168,12,2,4,512,0.207
+MixBEATS_Traffic_96_24,168,12,2,8,64,0.186
+MixBEATS_Traffic_96_24,168,12,2,8,128,0.179
+MixBEATS_Traffic_96_24,168,12,2,8,256,0.175
+MixBEATS_Traffic_96_24,168,12,2,8,512,0.172
+MixBEATS_Traffic_96_24,168,12,3,2,64,0.337
+MixBEATS_Traffic_96_24,168,12,3,2,128,0.278
+MixBEATS_Traffic_96_24,168,12,3,2,256,0.270
+MixBEATS_Traffic_96_24,168,12,3,2,512,0.359
+MixBEATS_Traffic_96_24,168,12,3,4,64,0.215
+MixBEATS_Traffic_96_24,168,12,3,4,128,0.210
+MixBEATS_Traffic_96_24,168,12,3,4,256,0.208
+MixBEATS_Traffic_96_24,168,12,3,4,512,0.208
+MixBEATS_Traffic_96_24,168,12,3,8,64,0.184
+MixBEATS_Traffic_96_24,168,12,3,8,128,0.183
+MixBEATS_Traffic_96_24,168,12,3,8,256,0.179
+MixBEATS_Traffic_96_24,168,12,3,8,512,0.176
+MixBEATS_Traffic_96_24,168,12,6,2,64,0.320
+MixBEATS_Traffic_96_24,168,12,6,2,128,0.276
+MixBEATS_Traffic_96_24,168,12,6,2,256,0.286
+MixBEATS_Traffic_96_24,168,12,6,2,512,0.268
+MixBEATS_Traffic_96_24,168,12,6,4,64,0.230
+MixBEATS_Traffic_96_24,168,12,6,4,128,0.242
+MixBEATS_Traffic_96_24,168,12,6,4,256,0.228
+MixBEATS_Traffic_96_24,168,12,6,4,512,0.229
+MixBEATS_Traffic_96_24,168,12,6,8,64,0.203
+MixBEATS_Traffic_96_24,168,12,6,8,128,0.194
+MixBEATS_Traffic_96_24,168,12,6,8,256,0.192
+MixBEATS_Traffic_96_24,168,12,6,8,512,0.191
+MixBEATS_Traffic_96_24,168,24,2,2,64,0.485
+MixBEATS_Traffic_96_24,168,24,2,2,128,0.381
+MixBEATS_Traffic_96_24,168,24,2,2,256,0.439
+MixBEATS_Traffic_96_24,168,24,2,2,512,0.430
+MixBEATS_Traffic_96_24,168,24,2,4,64,0.242
+MixBEATS_Traffic_96_24,168,24,2,4,128,0.222
+MixBEATS_Traffic_96_24,168,24,2,4,256,0.249
+MixBEATS_Traffic_96_24,168,24,2,4,512,0.218
+MixBEATS_Traffic_96_24,168,24,2,8,64,0.176
+MixBEATS_Traffic_96_24,168,24,2,8,128,0.182
+MixBEATS_Traffic_96_24,168,24,2,8,256,0.176
+MixBEATS_Traffic_96_24,168,24,2,8,512,0.181
+MixBEATS_Traffic_96_24,168,24,3,2,64,0.316
+MixBEATS_Traffic_96_24,168,24,3,2,128,0.326
+MixBEATS_Traffic_96_24,168,24,3,2,256,0.351
+MixBEATS_Traffic_96_24,168,24,3,2,512,0.293
+MixBEATS_Traffic_96_24,168,24,3,4,64,0.215
+MixBEATS_Traffic_96_24,168,24,3,4,128,0.224
+MixBEATS_Traffic_96_24,168,24,3,4,256,0.201
+MixBEATS_Traffic_96_24,168,24,3,4,512,0.202
+MixBEATS_Traffic_96_24,168,24,3,8,64,0.185
+MixBEATS_Traffic_96_24,168,24,3,8,128,0.180
+MixBEATS_Traffic_96_24,168,24,3,8,256,0.184
+MixBEATS_Traffic_96_24,168,24,3,8,512,0.175
+MixBEATS_Traffic_96_24,168,24,6,2,64,0.280
+MixBEATS_Traffic_96_24,168,24,6,2,128,0.282
+MixBEATS_Traffic_96_24,168,24,6,2,256,0.272
+MixBEATS_Traffic_96_24,168,24,6,2,512,0.272
+MixBEATS_Traffic_96_24,168,24,6,4,64,0.234
+MixBEATS_Traffic_96_24,168,24,6,4,128,0.230
+MixBEATS_Traffic_96_24,168,24,6,4,256,0.228
+MixBEATS_Traffic_96_24,168,24,6,4,512,0.227
+MixBEATS_Traffic_96_24,168,24,6,8,64,0.198
+MixBEATS_Traffic_96_24,168,24,6,8,128,0.195
+MixBEATS_Traffic_96_24,168,24,6,8,256,0.201
+MixBEATS_Traffic_96_24,168,24,6,8,512,0.195
+Traceback (most recent call last):
+  File "/home/user/energygpt/Mix-BEATS/Generic/exp.py", line 337, in <module>
+    exp(args, model, criterion, optimizer, device, train_loader, val_loader, test_loader)
+  File "/home/user/energygpt/Mix-BEATS/Generic/exp.py", line 83, in exp
+    outputs = _run_model()
+  File "/home/user/energygpt/Mix-BEATS/Generic/exp.py", line 74, in _run_model
+    outputs = model(batch_x, batch_x_mark, dec_inp, batch_y_mark)
+  File "/home/user/miniconda3/envs/IBMTS/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/user/miniconda3/envs/IBMTS/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/user/energygpt/Mix-BEATS/Generic/models/MixBEATS.py", line 96, in forward
+    backcast, forecast = self.short_forecast(backcast)
+  File "/home/user/energygpt/Mix-BEATS/Generic/models/MixBEATS.py", line 86, in short_forecast
+    backcast_block, forecast_block = block(backcast)
+  File "/home/user/miniconda3/envs/IBMTS/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/user/miniconda3/envs/IBMTS/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/user/energygpt/Mix-BEATS/Generic/models/MixBEATS.py", line 29, in forward
+    x = self.TSMixer(x)
+  File "/home/user/miniconda3/envs/IBMTS/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/user/miniconda3/envs/IBMTS/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/user/energygpt/Mix-BEATS/Generic/layers/MLP_Mixer.py", line 29, in forward
+    x = x.view(batch_size, self.num_patches, self.patch_size)
+RuntimeError: shape '[32, 3, 48]' is invalid for input of size 5376

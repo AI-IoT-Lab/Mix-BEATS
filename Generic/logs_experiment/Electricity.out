@@ -1,0 +1,281 @@
+nohup: ignoring input
+MixBEATS_Electricity_96_24,96,6,2,2,64,0.382
+MixBEATS_Electricity_96_24,96,6,2,2,128,0.383
+MixBEATS_Electricity_96_24,96,6,2,2,256,0.396
+MixBEATS_Electricity_96_24,96,6,2,2,512,0.438
+MixBEATS_Electricity_96_24,96,6,2,4,64,0.260
+MixBEATS_Electricity_96_24,96,6,2,4,128,0.252
+MixBEATS_Electricity_96_24,96,6,2,4,256,0.249
+MixBEATS_Electricity_96_24,96,6,2,4,512,0.241
+MixBEATS_Electricity_96_24,96,6,2,8,64,0.233
+MixBEATS_Electricity_96_24,96,6,2,8,128,0.239
+MixBEATS_Electricity_96_24,96,6,2,8,256,0.222
+MixBEATS_Electricity_96_24,96,6,2,8,512,0.217
+MixBEATS_Electricity_96_24,96,6,3,2,64,0.297
+MixBEATS_Electricity_96_24,96,6,3,2,128,0.267
+MixBEATS_Electricity_96_24,96,6,3,2,256,0.269
+MixBEATS_Electricity_96_24,96,6,3,2,512,0.270
+MixBEATS_Electricity_96_24,96,6,3,4,64,0.256
+MixBEATS_Electricity_96_24,96,6,3,4,128,0.246
+MixBEATS_Electricity_96_24,96,6,3,4,256,0.235
+MixBEATS_Electricity_96_24,96,6,3,4,512,0.229
+MixBEATS_Electricity_96_24,96,6,3,8,64,0.229
+MixBEATS_Electricity_96_24,96,6,3,8,128,0.224
+MixBEATS_Electricity_96_24,96,6,3,8,256,0.224
+MixBEATS_Electricity_96_24,96,6,3,8,512,0.219
+MixBEATS_Electricity_96_24,96,6,6,2,64,0.285
+MixBEATS_Electricity_96_24,96,6,6,2,128,0.283
+MixBEATS_Electricity_96_24,96,6,6,2,256,0.251
+MixBEATS_Electricity_96_24,96,6,6,2,512,0.240
+MixBEATS_Electricity_96_24,96,6,6,4,64,0.245
+MixBEATS_Electricity_96_24,96,6,6,4,128,0.246
+MixBEATS_Electricity_96_24,96,6,6,4,256,0.239
+MixBEATS_Electricity_96_24,96,6,6,4,512,0.229
+MixBEATS_Electricity_96_24,96,6,6,8,64,0.233
+MixBEATS_Electricity_96_24,96,6,6,8,128,0.226
+MixBEATS_Electricity_96_24,96,6,6,8,256,0.220
+MixBEATS_Electricity_96_24,96,6,6,8,512,0.229
+MixBEATS_Electricity_96_24,96,12,2,2,64,0.383
+MixBEATS_Electricity_96_24,96,12,2,2,128,0.482
+MixBEATS_Electricity_96_24,96,12,2,2,256,0.294
+MixBEATS_Electricity_96_24,96,12,2,2,512,0.384
+MixBEATS_Electricity_96_24,96,12,2,4,64,0.265
+MixBEATS_Electricity_96_24,96,12,2,4,128,0.257
+MixBEATS_Electricity_96_24,96,12,2,4,256,0.252
+MixBEATS_Electricity_96_24,96,12,2,4,512,0.237
+MixBEATS_Electricity_96_24,96,12,2,8,64,0.241
+MixBEATS_Electricity_96_24,96,12,2,8,128,0.236
+MixBEATS_Electricity_96_24,96,12,2,8,256,0.235
+MixBEATS_Electricity_96_24,96,12,2,8,512,0.218
+MixBEATS_Electricity_96_24,96,12,3,2,64,0.301
+MixBEATS_Electricity_96_24,96,12,3,2,128,0.327
+MixBEATS_Electricity_96_24,96,12,3,2,256,0.290
+MixBEATS_Electricity_96_24,96,12,3,2,512,0.267
+MixBEATS_Electricity_96_24,96,12,3,4,64,0.265
+MixBEATS_Electricity_96_24,96,12,3,4,128,0.243
+MixBEATS_Electricity_96_24,96,12,3,4,256,0.246
+MixBEATS_Electricity_96_24,96,12,3,4,512,0.233
+MixBEATS_Electricity_96_24,96,12,3,8,64,0.236
+MixBEATS_Electricity_96_24,96,12,3,8,128,0.230
+MixBEATS_Electricity_96_24,96,12,3,8,256,0.227
+MixBEATS_Electricity_96_24,96,12,3,8,512,0.222
+MixBEATS_Electricity_96_24,96,12,6,2,64,0.289
+MixBEATS_Electricity_96_24,96,12,6,2,128,0.267
+MixBEATS_Electricity_96_24,96,12,6,2,256,0.261
+MixBEATS_Electricity_96_24,96,12,6,2,512,0.241
+MixBEATS_Electricity_96_24,96,12,6,4,64,0.252
+MixBEATS_Electricity_96_24,96,12,6,4,128,0.247
+MixBEATS_Electricity_96_24,96,12,6,4,256,0.230
+MixBEATS_Electricity_96_24,96,12,6,4,512,0.238
+MixBEATS_Electricity_96_24,96,12,6,8,64,0.234
+MixBEATS_Electricity_96_24,96,12,6,8,128,0.228
+MixBEATS_Electricity_96_24,96,12,6,8,256,0.222
+MixBEATS_Electricity_96_24,96,12,6,8,512,0.219
+MixBEATS_Electricity_96_24,96,24,2,2,64,0.377
+MixBEATS_Electricity_96_24,96,24,2,2,128,0.355
+MixBEATS_Electricity_96_24,96,24,2,2,256,0.353
+MixBEATS_Electricity_96_24,96,24,2,2,512,0.455
+MixBEATS_Electricity_96_24,96,24,2,4,64,0.268
+MixBEATS_Electricity_96_24,96,24,2,4,128,0.247
+MixBEATS_Electricity_96_24,96,24,2,4,256,0.239
+MixBEATS_Electricity_96_24,96,24,2,4,512,0.245
+MixBEATS_Electricity_96_24,96,24,2,8,64,0.237
+MixBEATS_Electricity_96_24,96,24,2,8,128,0.233
+MixBEATS_Electricity_96_24,96,24,2,8,256,0.219
+MixBEATS_Electricity_96_24,96,24,2,8,512,0.217
+MixBEATS_Electricity_96_24,96,24,3,2,64,0.335
+MixBEATS_Electricity_96_24,96,24,3,2,128,0.299
+MixBEATS_Electricity_96_24,96,24,3,2,256,0.298
+MixBEATS_Electricity_96_24,96,24,3,2,512,0.260
+MixBEATS_Electricity_96_24,96,24,3,4,64,0.265
+MixBEATS_Electricity_96_24,96,24,3,4,128,0.247
+MixBEATS_Electricity_96_24,96,24,3,4,256,0.244
+MixBEATS_Electricity_96_24,96,24,3,4,512,0.229
+MixBEATS_Electricity_96_24,96,24,3,8,64,0.237
+MixBEATS_Electricity_96_24,96,24,3,8,128,0.226
+MixBEATS_Electricity_96_24,96,24,3,8,256,0.218
+MixBEATS_Electricity_96_24,96,24,3,8,512,0.222
+MixBEATS_Electricity_96_24,96,24,6,2,64,0.286
+MixBEATS_Electricity_96_24,96,24,6,2,128,0.266
+MixBEATS_Electricity_96_24,96,24,6,2,256,0.252
+MixBEATS_Electricity_96_24,96,24,6,2,512,0.241
+MixBEATS_Electricity_96_24,96,24,6,4,64,0.256
+MixBEATS_Electricity_96_24,96,24,6,4,128,0.236
+MixBEATS_Electricity_96_24,96,24,6,4,256,0.232
+MixBEATS_Electricity_96_24,96,24,6,4,512,0.231
+MixBEATS_Electricity_96_24,96,24,6,8,64,0.235
+MixBEATS_Electricity_96_24,96,24,6,8,128,0.231
+MixBEATS_Electricity_96_24,96,24,6,8,256,0.224
+MixBEATS_Electricity_96_24,96,24,6,8,512,0.221
+MixBEATS_Electricity_96_24,96,48,2,2,64,0.405
+MixBEATS_Electricity_96_24,96,48,2,2,128,0.418
+MixBEATS_Electricity_96_24,96,48,2,2,256,0.358
+MixBEATS_Electricity_96_24,96,48,2,2,512,0.383
+MixBEATS_Electricity_96_24,96,48,2,4,64,0.261
+MixBEATS_Electricity_96_24,96,48,2,4,128,0.267
+MixBEATS_Electricity_96_24,96,48,2,4,256,0.251
+MixBEATS_Electricity_96_24,96,48,2,4,512,0.245
+MixBEATS_Electricity_96_24,96,48,2,8,64,0.242
+MixBEATS_Electricity_96_24,96,48,2,8,128,0.233
+MixBEATS_Electricity_96_24,96,48,2,8,256,0.228
+MixBEATS_Electricity_96_24,96,48,2,8,512,0.227
+MixBEATS_Electricity_96_24,96,48,3,2,64,0.339
+MixBEATS_Electricity_96_24,96,48,3,2,128,0.278
+MixBEATS_Electricity_96_24,96,48,3,2,256,0.259
+MixBEATS_Electricity_96_24,96,48,3,2,512,0.329
+MixBEATS_Electricity_96_24,96,48,3,4,64,0.259
+MixBEATS_Electricity_96_24,96,48,3,4,128,0.254
+MixBEATS_Electricity_96_24,96,48,3,4,256,0.239
+MixBEATS_Electricity_96_24,96,48,3,4,512,0.227
+MixBEATS_Electricity_96_24,96,48,3,8,64,0.231
+MixBEATS_Electricity_96_24,96,48,3,8,128,0.237
+MixBEATS_Electricity_96_24,96,48,3,8,256,0.223
+MixBEATS_Electricity_96_24,96,48,3,8,512,0.211
+MixBEATS_Electricity_96_24,96,48,6,2,64,0.299
+MixBEATS_Electricity_96_24,96,48,6,2,128,0.286
+MixBEATS_Electricity_96_24,96,48,6,2,256,0.261
+MixBEATS_Electricity_96_24,96,48,6,2,512,0.250
+MixBEATS_Electricity_96_24,96,48,6,4,64,0.260
+MixBEATS_Electricity_96_24,96,48,6,4,128,0.253
+MixBEATS_Electricity_96_24,96,48,6,4,256,0.231
+MixBEATS_Electricity_96_24,96,48,6,4,512,0.232
+MixBEATS_Electricity_96_24,96,48,6,8,64,0.234
+MixBEATS_Electricity_96_24,96,48,6,8,128,0.233
+MixBEATS_Electricity_96_24,96,48,6,8,256,0.222
+MixBEATS_Electricity_96_24,96,48,6,8,512,0.225
+MixBEATS_Electricity_96_24,168,6,2,2,64,0.295
+MixBEATS_Electricity_96_24,168,6,2,2,128,0.340
+MixBEATS_Electricity_96_24,168,6,2,2,256,0.321
+MixBEATS_Electricity_96_24,168,6,2,2,512,0.188
+MixBEATS_Electricity_96_24,168,6,2,4,64,0.183
+MixBEATS_Electricity_96_24,168,6,2,4,128,0.175
+MixBEATS_Electricity_96_24,168,6,2,4,256,0.175
+MixBEATS_Electricity_96_24,168,6,2,4,512,0.169
+MixBEATS_Electricity_96_24,168,6,2,8,64,0.170
+MixBEATS_Electricity_96_24,168,6,2,8,128,0.168
+MixBEATS_Electricity_96_24,168,6,2,8,256,0.159
+MixBEATS_Electricity_96_24,168,6,2,8,512,0.157
+MixBEATS_Electricity_96_24,168,6,3,2,64,0.210
+MixBEATS_Electricity_96_24,168,6,3,2,128,0.232
+MixBEATS_Electricity_96_24,168,6,3,2,256,0.212
+MixBEATS_Electricity_96_24,168,6,3,2,512,0.187
+MixBEATS_Electricity_96_24,168,6,3,4,64,0.185
+MixBEATS_Electricity_96_24,168,6,3,4,128,0.172
+MixBEATS_Electricity_96_24,168,6,3,4,256,0.166
+MixBEATS_Electricity_96_24,168,6,3,4,512,0.159
+MixBEATS_Electricity_96_24,168,6,3,8,64,0.165
+MixBEATS_Electricity_96_24,168,6,3,8,128,0.161
+MixBEATS_Electricity_96_24,168,6,3,8,256,0.161
+MixBEATS_Electricity_96_24,168,6,3,8,512,0.155
+MixBEATS_Electricity_96_24,168,6,6,2,64,0.215
+MixBEATS_Electricity_96_24,168,6,6,2,128,0.202
+MixBEATS_Electricity_96_24,168,6,6,2,256,0.189
+MixBEATS_Electricity_96_24,168,6,6,2,512,0.186
+MixBEATS_Electricity_96_24,168,6,6,4,64,0.188
+MixBEATS_Electricity_96_24,168,6,6,4,128,0.179
+MixBEATS_Electricity_96_24,168,6,6,4,256,0.171
+MixBEATS_Electricity_96_24,168,6,6,4,512,0.163
+MixBEATS_Electricity_96_24,168,6,6,8,64,0.172
+MixBEATS_Electricity_96_24,168,6,6,8,128,0.163
+MixBEATS_Electricity_96_24,168,6,6,8,256,0.158
+MixBEATS_Electricity_96_24,168,6,6,8,512,0.156
+MixBEATS_Electricity_96_24,168,12,2,2,64,0.241
+MixBEATS_Electricity_96_24,168,12,2,2,128,0.369
+MixBEATS_Electricity_96_24,168,12,2,2,256,0.283
+MixBEATS_Electricity_96_24,168,12,2,2,512,0.316
+MixBEATS_Electricity_96_24,168,12,2,4,64,0.182
+MixBEATS_Electricity_96_24,168,12,2,4,128,0.180
+MixBEATS_Electricity_96_24,168,12,2,4,256,0.179
+MixBEATS_Electricity_96_24,168,12,2,4,512,0.175
+MixBEATS_Electricity_96_24,168,12,2,8,64,0.168
+MixBEATS_Electricity_96_24,168,12,2,8,128,0.169
+MixBEATS_Electricity_96_24,168,12,2,8,256,0.162
+MixBEATS_Electricity_96_24,168,12,2,8,512,0.159
+MixBEATS_Electricity_96_24,168,12,3,2,64,0.211
+MixBEATS_Electricity_96_24,168,12,3,2,128,0.208
+MixBEATS_Electricity_96_24,168,12,3,2,256,0.206
+MixBEATS_Electricity_96_24,168,12,3,2,512,0.184
+MixBEATS_Electricity_96_24,168,12,3,4,64,0.184
+MixBEATS_Electricity_96_24,168,12,3,4,128,0.175
+MixBEATS_Electricity_96_24,168,12,3,4,256,0.175
+MixBEATS_Electricity_96_24,168,12,3,4,512,0.167
+MixBEATS_Electricity_96_24,168,12,3,8,64,0.168
+MixBEATS_Electricity_96_24,168,12,3,8,128,0.164
+MixBEATS_Electricity_96_24,168,12,3,8,256,0.161
+MixBEATS_Electricity_96_24,168,12,3,8,512,0.152
+MixBEATS_Electricity_96_24,168,12,6,2,64,0.218
+MixBEATS_Electricity_96_24,168,12,6,2,128,0.197
+MixBEATS_Electricity_96_24,168,12,6,2,256,0.191
+MixBEATS_Electricity_96_24,168,12,6,2,512,0.180
+MixBEATS_Electricity_96_24,168,12,6,4,64,0.190
+MixBEATS_Electricity_96_24,168,12,6,4,128,0.184
+MixBEATS_Electricity_96_24,168,12,6,4,256,0.176
+MixBEATS_Electricity_96_24,168,12,6,4,512,0.164
+MixBEATS_Electricity_96_24,168,12,6,8,64,0.169
+MixBEATS_Electricity_96_24,168,12,6,8,128,0.163
+MixBEATS_Electricity_96_24,168,12,6,8,256,0.161
+MixBEATS_Electricity_96_24,168,12,6,8,512,0.157
+MixBEATS_Electricity_96_24,168,24,2,2,64,0.271
+MixBEATS_Electricity_96_24,168,24,2,2,128,0.362
+MixBEATS_Electricity_96_24,168,24,2,2,256,0.271
+MixBEATS_Electricity_96_24,168,24,2,2,512,0.285
+MixBEATS_Electricity_96_24,168,24,2,4,64,0.182
+MixBEATS_Electricity_96_24,168,24,2,4,128,0.176
+MixBEATS_Electricity_96_24,168,24,2,4,256,0.170
+MixBEATS_Electricity_96_24,168,24,2,4,512,0.168
+MixBEATS_Electricity_96_24,168,24,2,8,64,0.165
+MixBEATS_Electricity_96_24,168,24,2,8,128,0.162
+MixBEATS_Electricity_96_24,168,24,2,8,256,0.160
+MixBEATS_Electricity_96_24,168,24,2,8,512,0.159
+MixBEATS_Electricity_96_24,168,24,3,2,64,0.205
+MixBEATS_Electricity_96_24,168,24,3,2,128,0.198
+MixBEATS_Electricity_96_24,168,24,3,2,256,0.181
+MixBEATS_Electricity_96_24,168,24,3,2,512,0.199
+MixBEATS_Electricity_96_24,168,24,3,4,64,0.175
+MixBEATS_Electricity_96_24,168,24,3,4,128,0.170
+MixBEATS_Electricity_96_24,168,24,3,4,256,0.167
+MixBEATS_Electricity_96_24,168,24,3,4,512,0.161
+MixBEATS_Electricity_96_24,168,24,3,8,64,0.165
+MixBEATS_Electricity_96_24,168,24,3,8,128,0.160
+MixBEATS_Electricity_96_24,168,24,3,8,256,0.157
+MixBEATS_Electricity_96_24,168,24,3,8,512,0.157
+MixBEATS_Electricity_96_24,168,24,6,2,64,0.208
+MixBEATS_Electricity_96_24,168,24,6,2,128,0.196
+MixBEATS_Electricity_96_24,168,24,6,2,256,0.190
+MixBEATS_Electricity_96_24,168,24,6,2,512,0.179
+MixBEATS_Electricity_96_24,168,24,6,4,64,0.184
+MixBEATS_Electricity_96_24,168,24,6,4,128,0.181
+MixBEATS_Electricity_96_24,168,24,6,4,256,0.167
+MixBEATS_Electricity_96_24,168,24,6,4,512,0.165
+MixBEATS_Electricity_96_24,168,24,6,8,64,0.166
+MixBEATS_Electricity_96_24,168,24,6,8,128,0.163
+MixBEATS_Electricity_96_24,168,24,6,8,256,0.160
+MixBEATS_Electricity_96_24,168,24,6,8,512,0.158
+Traceback (most recent call last):
+  File "/home/user/energygpt/Mix-BEATS/Generic/exp.py", line 337, in <module>
+    exp(args, model, criterion, optimizer, device, train_loader, val_loader, test_loader)
+  File "/home/user/energygpt/Mix-BEATS/Generic/exp.py", line 83, in exp
+    outputs = _run_model()
+  File "/home/user/energygpt/Mix-BEATS/Generic/exp.py", line 74, in _run_model
+    outputs = model(batch_x, batch_x_mark, dec_inp, batch_y_mark)
+  File "/home/user/miniconda3/envs/IBMTS/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/user/miniconda3/envs/IBMTS/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/user/energygpt/Mix-BEATS/Generic/models/MixBEATS.py", line 96, in forward
+    backcast, forecast = self.short_forecast(backcast)
+  File "/home/user/energygpt/Mix-BEATS/Generic/models/MixBEATS.py", line 86, in short_forecast
+    backcast_block, forecast_block = block(backcast)
+  File "/home/user/miniconda3/envs/IBMTS/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/user/miniconda3/envs/IBMTS/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/user/energygpt/Mix-BEATS/Generic/models/MixBEATS.py", line 29, in forward
+    x = self.TSMixer(x)
+  File "/home/user/miniconda3/envs/IBMTS/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1736, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+  File "/home/user/miniconda3/envs/IBMTS/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1747, in _call_impl
+    return forward_call(*args, **kwargs)
+  File "/home/user/energygpt/Mix-BEATS/Generic/layers/MLP_Mixer.py", line 29, in forward
+    x = x.view(batch_size, self.num_patches, self.patch_size)
+RuntimeError: shape '[32, 3, 48]' is invalid for input of size 5376
