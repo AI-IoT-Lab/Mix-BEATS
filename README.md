@@ -8,6 +8,11 @@ This repository contains the official code for the paper:
 To appear in **ACM e-Energy 2025**, June 17, 2025, Rotterdam, Netherlands.
 
 ---
+## 📄 Paper
+
+[Mix-BEATS: Mixer-enhanced Basis Expansion Analysis for Load Forecasting (E-Energy ’25)](http://camps.aptaracorp.com/ACM_PMS/PMS/ACM/EENERGY25/49/65dd3077-2f5b-11f0-ada9-16bb50361d1f/OUT/eenergy25-49.html)
+
+---
 
 ## 🧠 Overview
 
@@ -37,12 +42,6 @@ Mix-BEATS is a lightweight, hybrid model for short-term load forecasting that co
 
 - **Open and Reproducible**  
   Publicly available codebase with training, evaluation, and benchmarking scripts for easy replication and extension.
-
-
----
-## 📄 Paper
-
-[Mix-BEATS: Mixer-enhanced Basis Expansion Analysis for Load Forecasting (E-Energy ’25)](http://camps.aptaracorp.com/ACM_PMS/PMS/ACM/EENERGY25/49/65dd3077-2f5b-11f0-ada9-16bb50361d1f/OUT/eenergy25-49.html)
 
 ---
 
