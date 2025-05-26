@@ -1,0 +1,1 @@
+python -u train.py --config-file ./configs/energy_data.json

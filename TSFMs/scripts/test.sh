@@ -1,0 +1,1 @@
+python -u test.py --config-file ./configs/energy_data.json
