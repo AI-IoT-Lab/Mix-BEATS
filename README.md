@@ -60,7 +60,7 @@ If you use this code or ideas from our paper, please consider citing us. (BibTeX
 
 ## 📬 Contact
 
-For any queries, please contact Shivam Dwivedi (shivamd@iisc.ac.in) or raise an issue in the repository.
+For any queries, please contact Pandarasamy Arjunan (samy@iisc.ac.in) or raise an issue in the repository.
 
 ---
 
