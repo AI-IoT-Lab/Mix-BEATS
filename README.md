@@ -1,7 +1,5 @@
 # Mix-BEATS: Mixer-enhanced Basis Expansion Analysis for Load Forecasting
 
-# Mix-BEATS: Mixer-enhanced Basis Expansion Analysis for Load Forecasting
-
 This repository contains the official code for the paper:
 
 **Mix-BEATS: Mixer-enhanced Basis Expansion Analysis for Load Forecasting**  
