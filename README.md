@@ -18,6 +18,8 @@ To appear in **ACM e-Energy 2025**, June 17, 2025, Rotterdam, Netherlands.
 
 Mix-BEATS is a lightweight, hybrid model for short-term load forecasting that combines the residual learning of N-BEATS with the MLP-based patch and time mixing of TSMixer. Designed for efficiency and generalization, it achieves superior performance across diverse buildings while being suitable for edge deployment.
 
+![Figure 1: Mix-BEATS Model Architecture](TSFMs/plots/Mix-BEATS-Model.png)
+
 ---
 
 ## Features
