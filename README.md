@@ -44,31 +44,49 @@ Mix-BEATS is a lightweight, hybrid model for short-term load forecasting that co
   Publicly available codebase with training, evaluation, and benchmarking scripts for easy replication and extension.
 
 ---
+## 📊 Real-World Building Datasets
 
-## 📊 Datasets Used
+This project uses large-scale **real-world building energy datasets** from commercial and residential domains, collected from multiple countries.
 
-This study utilizes a rich collection of **hourly energy consumption** datasets from both residential and commercial buildings across various regions. These datasets cover over a decade and are crucial for evaluating generalization and robustness in time-series models.
+| Dataset   | Location     | Type        | # Buildings | # Observations | Years       |
+|-----------|--------------|-------------|-------------|----------------|-------------|
+| IBlend    | India        | Commercial  | 9           | 296,357        | 2013–2017   |
+| Enernoc   | USA          | Commercial  | 100         | 877,728        | 2012        |
+| NEST      | Switzerland  | Residential | 1           | 34,715         | 2019–2023   |
+| Ireland   | Ireland      | Residential | 20          | 174,398        | 2020        |
+| MFRED     | USA          | Residential | 26          | 227,622        | 2019        |
+| CEEW      | India        | Residential | 84          | 923,897        | 2019–2021   |
+| SMART*    | USA          | Residential | 114         | 958,998        | 2016        |
+| Prayas    | India        | Residential | 116         | 1,536,409      | 2018–2020   |
+| NEEA      | USA          | Residential | 192         | 2,922,289      | 2018–2020   |
+| SGSC      | Australia    | Residential | 13,735      | 172,277,213    | 2011–2014   |
+| GoiEner   | Spain        | Residential | 25,559      | 632,313,933    | 2014–2022   |
 
-| Dataset       | Location      | Type         | # Buildings | # Observations | Year Range  |
-|---------------|---------------|--------------|-------------|----------------|-------------|
-| IBlend        | India         | Commercial   | 9           | 296,357        | 2013–2017   |
-| Enernoc       | USA           | Commercial   | 100         | 877,728        | 2012        |
-| NEST          | Switzerland   | Residential  | 1           | 34,715         | 2019–2023   |
-| Ireland       | Ireland       | Residential  | 20          | 174,398        | 2020        |
-| MFRED         | USA           | Residential  | 26          | 227,622        | 2019        |
-| CEEW          | India         | Residential  | 84          | 923,897        | 2019–2021   |
-| SMART*        | USA           | Residential  | 114         | 958,998        | 2016        |
-| Prayas        | India         | Residential  | 116         | 1,536,409      | 2018–2020   |
-| NEEA          | USA           | Residential  | 192         | 2,922,289      | 2018–2020   |
-| SGSC          | Australia     | Residential  | 13,735      | 172,277,213    | 2011–2014   |
-| GoiEner       | Spain         | Residential  | 25,559      | 632,313,933    | 2014–2022   |
+**Total: 39,956 buildings and 812M+ hourly observations**
 
-**Total:**  
-- 🏠 **39,956 buildings**  
-- 📈 **812,543,559 hourly observations**
+> ⚠️ These datasets are used under their respective terms/licenses for academic research only.
 
-> ⚠️ All datasets were used under their respective licenses or terms. Usage is for academic research only.
+---
 
+## 📚 Generic Benchmark Datasets
+
+TSPulse is extensively evaluated on popular time-series forecasting benchmarks from domains such as energy, economics, traffic, weather, and disease surveillance.
+
+| Dataset         | Variates | Timesteps | Granularity |
+|------------------|----------|-----------|-------------|
+| Weather          | 21       | 52,696    | 10 min      |
+| Traffic          | 862      | 17,544    | 1 hour      |
+| Electricity      | 321      | 26,304    | 1 hour      |
+| ETTh1            | 7        | 17,420    | 1 hour      |
+| ETTh2            | 7        | 17,420    | 1 hour      |
+| ETTm1            | 7        | 69,680    | 15 min      |
+| ETTm2            | 7        | 69,680    | 15 min      |
+| Illness (ILI)    | 7        | 966       | 1 week      |
+| Exchange-Rate    | 8        | 7,588     | 1 day       |
+
+> 📌 Train/Val/Test Splits:
+> - ETT: 60% / 20% / 20%
+> - Others: 70% / 10% / 20%
 
 
 
