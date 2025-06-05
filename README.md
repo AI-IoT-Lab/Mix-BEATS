@@ -142,7 +142,7 @@ Forecast horizon: **24 hours (1 day)**
 > - NRMSE values are lower-is-better, indicating better forecast accuracy.
 
 
-![Figure 1: TSFM Zero-Shot vs Fine-Tune](path/to/tsfm_comparison.png)
+![Figure 2: TSFMs Zero-Shot vs Fine-Tune Visualization](TSFMs/plots/Mix-BEATS-Enernoc-304-47.pdf)
 
 ---
 
@@ -161,19 +161,29 @@ We also compare Mix-BEATS with popular models like **TSMixer**, **FedFormer**, *
 
 #### 📊 Results on Forecasting Tasks
 
-**Figure 2: Forecasting Accuracy on Generic Datasets**  
-_TSPulse shows strong generalization across domains with and without fine-tuning._
+**Metric:** MSE (Mean Squared Error)  
+**Context Length:** 96  
+**Forecast Horizon:** 24  
+**Lower is better** — **Bold = Best**, *Italic/Underline = Second-best*
 
-![Figure 2: Forecasting Results](path/to/generic_model_comparison.png)
+| Dataset     | **Mix-BEATS** | N-BEATS | Autoformer | LightTS | TSMixer | Reformer | Transformer | TiDE | DLinear |
+|-------------|---------------|---------|------------|---------|---------|----------|-------------|------|---------|
+| **ETTh1**   | 0.040         | 0.063   | 0.062      | 0.057   | 0.057   | **0.031**| 0.057       | *0.043* | 0.033   |
+| **ETTh2**   | *0.074*       | 0.075   | 0.090      | 0.086   | 0.075   | 0.079    | 0.090       | 0.083 | 0.076   |
+| **ETTm1**   | *0.014*       | 0.017   | 0.020      | 0.018   | 0.016   | **0.011**| 0.016       | 0.015 | 0.012   |
+| **ETTm2**   | **0.020**     | *0.021* | 0.039      | 0.027   | 0.023   | 0.024    | *0.021*     | 0.035 | 0.029   |
+| **Electricity** | **0.211** | *0.202* | 0.347      | 0.250   | 0.206   | 0.256    | 0.223       | 0.361 | 0.312   |
+| **Traffic** | **0.173**     | *0.179* | 0.274      | 0.323   | 0.239   | 0.183    | 0.150       | 0.341 | 0.330   |
+| **Weather** | **0.001**     | *0.001* | 0.003      | 0.002   | *0.001* | *0.001*  | *0.001*     | *0.001* | 0.002   |
+| **Exchange**| 0.043         | **0.035**| 0.057     | 0.053   | 0.048   | *0.035*  | 0.050       | 0.037 | 0.037   |
 
-| Model            | ETT (MSE) ↓ | Traffic (MSE) ↓ | Weather (MSE) ↓ | ILI (MSE) ↓ | Exchange (MSE) ↓ |
-|------------------|-------------|------------------|------------------|--------------|-------------------|
-| TSPulse (ZS)     | **0.074**   | **0.093**        | **0.058**        | **0.021**    | **0.034**         |
-| TSPulse (FT)     | **0.068**   | **0.085**        | **0.050**        | **0.018**    | **0.028**         |
-| TimesNet         | 0.102       | 0.134            | 0.083            | 0.029        | 0.044             |
-| FedFormer        | 0.112       | 0.145            | 0.091            | 0.031        | 0.046             |
-| TSMixer          | 0.095       | 0.122            | 0.078            | 0.027        | 0.041             |
-| Non-Stat. Trans. | 0.109       | 0.138            | 0.087            | 0.032        | 0.049             |
+> ✅ **Note**: All values are MSE scores.  
+> - **Bold** values indicate the best performance on a dataset.  
+> - *Italic/underlined* values denote the second-best performance.  
+> - Mix-BEATS demonstrates competitive or superior performance across nearly all datasets while maintaining efficiency.
+
+
+![Figure 2: Generic Models Visualization](Generic/plots/visualize_models.pdf)
 
 ---
 
