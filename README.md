@@ -45,6 +45,35 @@ Mix-BEATS is a lightweight, hybrid model for short-term load forecasting that co
 
 ---
 
+## 📊 Datasets Used
+
+This study utilizes a rich collection of **hourly energy consumption** datasets from both residential and commercial buildings across various regions. These datasets cover over a decade and are crucial for evaluating generalization and robustness in time-series models.
+
+| Dataset       | Location      | Type         | # Buildings | # Observations | Year Range  |
+|---------------|---------------|--------------|-------------|----------------|-------------|
+| IBlend        | India         | Commercial   | 9           | 296,357        | 2013–2017   |
+| Enernoc       | USA           | Commercial   | 100         | 877,728        | 2012        |
+| NEST          | Switzerland   | Residential  | 1           | 34,715         | 2019–2023   |
+| Ireland       | Ireland       | Residential  | 20          | 174,398        | 2020        |
+| MFRED         | USA           | Residential  | 26          | 227,622        | 2019        |
+| CEEW          | India         | Residential  | 84          | 923,897        | 2019–2021   |
+| SMART*        | USA           | Residential  | 114         | 958,998        | 2016        |
+| Prayas        | India         | Residential  | 116         | 1,536,409      | 2018–2020   |
+| NEEA          | USA           | Residential  | 192         | 2,922,289      | 2018–2020   |
+| SGSC          | Australia     | Residential  | 13,735      | 172,277,213    | 2011–2014   |
+| GoiEner       | Spain         | Residential  | 25,559      | 632,313,933    | 2014–2022   |
+
+**Total:**  
+- 🏠 **39,956 buildings**  
+- 📈 **812,543,559 hourly observations**
+
+> ⚠️ All datasets were used under their respective licenses or terms. Usage is for academic research only.
+
+
+
+
+---
+
 ## 📦 Getting Started
 
 Instructions on setting up the environment and running the code will be provided soon.
