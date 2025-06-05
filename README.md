@@ -142,7 +142,7 @@ Forecast horizon: **24 hours (1 day)**
 > - NRMSE values are lower-is-better, indicating better forecast accuracy.
 
 
-![Figure 2: TSFMs Zero-Shot vs Fine-Tune Visualization](TSFMs/plots/Mix-BEATS-Enernoc-304-47.pdf)
+![Figure 2: TSFMs Zero-Shot vs Fine-Tune Visualization](TSFMs/plots/Mix-BEATS-Enernoc-304-47.png)
 
 ---
 
@@ -183,7 +183,7 @@ We also compare Mix-BEATS with popular models like **TSMixer**, **FedFormer**, *
 > - Mix-BEATS demonstrates competitive or superior performance across nearly all datasets while maintaining efficiency.
 
 
-![Figure 2: Generic Models Visualization](Generic/plots/visualize_models.pdf)
+![Figure 2: Generic Models Visualization](Generic/plots/visualize_models.png)
 
 ---
 
