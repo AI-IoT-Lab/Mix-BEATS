@@ -104,10 +104,10 @@ We benchmark **Mix-BEATS** against state-of-the-art Time-Series Foundation Model
 - **Split Strategy**:
   - **80%** for training
   - **20%** for validation
-  - **Test Set**: 1,000 unseen buildings, sampled evenly from all datasets to ensure generalization.
+- **Test Set**: 1,000 unseen buildings, sampled evenly from all datasets to ensure generalization.
 - **Evaluation**:
   - **Zero-shot**: Directly tested without task-specific fine-tuning.
-  - **Fine-tuned**: Adapted using training split from the target dataset, without using test labels.
+  - **Fine-tuned**: For each building in the test set, data from the first half of the year is used for fine-tuning, while data from the remaining half of the year is used for evaluation. We finetuned model for 10 epochs.
 
 
 #### 📊 Results (Zero-Shot and Fine-Tune)
