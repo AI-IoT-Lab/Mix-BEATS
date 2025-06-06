@@ -112,7 +112,7 @@ We benchmark **Mix-BEATS** against state-of-the-art Time-Series Foundation Model
 
 #### 📊 Results (Zero-Shot and Fine-Tune)
 
-**Figure 1: Performance Comparison of TSFMs (Zero-Shot & Fine-Tuned)**  
+**Table: Performance Comparison of TSFMs (Zero-Shot & Fine-Tuned)**  
 _Mix-BEATS consistently outperforms larger models despite its small size (0.18M params)_
 
 **NRMSE (Normalized Root Mean Square Error)** — Lower is better.  
@@ -166,6 +166,9 @@ We also compare Mix-BEATS with popular models like **TSMixer**, **FedFormer**, *
 **Forecast Horizon:** 24  
 **Lower is better** — **Bold = Best**, *Italic/Underline = Second-best*
 
+**Table: Performance Comparison of Generic Models**  
+_Mix-BEATS consistently performs well compare to other generic models despite its small size (0.18M params)_
+
 | Dataset     | **Mix-BEATS** | N-BEATS | Autoformer | LightTS | TSMixer | Reformer | Transformer | TiDE | DLinear |
 |-------------|---------------|---------|------------|---------|---------|----------|-------------|------|---------|
 | **ETTh1**   | 0.040         | 0.063   | 0.062      | 0.057   | 0.057   | **0.031**| 0.057       | *0.043* | 0.033   |
@@ -194,8 +197,6 @@ TSPulse delivers:
 - 📉 **Superior zero-shot performance**—even better than fine-tuned models in many cases.
 - 🪶 **Extreme parameter efficiency**—outperforming models 10–100× larger.
 - ⚙️ **Deployment-ready architecture**—ideal for edge, mobile, and CPU-constrained environments.
-
-> 📁 Visualizations, training logs, and reproducible scripts for these experiments are included in the `/experiments/` and `/figures/` folders.
 
 ---
 
